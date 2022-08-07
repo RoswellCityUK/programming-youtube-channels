@@ -58,4 +58,5 @@ Quick drawer with YouTube channels about programming. Feel free to get inspired.
 - https://www.youtube.com/c/TechLead
 - https://www.youtube.com/c/derekbanas
 - https://www.youtube.com/c/TraversyMedia
+- https://www.youtube.com/c/networkchuck
 
